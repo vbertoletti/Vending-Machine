@@ -1,0 +1,61 @@
+{
+
+
+
+  "products": {
+    "coke": {
+      "name": "Coca-Cola",
+      "price": 2.3,
+      "units": 10,
+      "maxUnits": 10,
+      "code": "A01"
+    },
+    "water": {
+      "name": "Water",
+      "price": 0.95,
+      "units": 2,
+      "maxUnits": 10,
+      "code": "A02"
+    },
+    "chocolateBar": {
+      "name": "Chocolate Bar",
+      "price": 3.75,
+      "units": 5,
+      "maxUnits": 10,
+      "code": "B01"
+    },
+    "bagOfChips": {
+      "name": "Chips Bag",
+      "price": 1.5,
+      "units": 12,
+      "maxUnits": 10,
+      "code": "B02"
+    }
+  },
+
+  "payment": {
+    "penny": {
+      "name": "penny",
+      "value": 0.01,
+      "inventory": 30
+    },
+
+    "nickel": {
+      "name": "nickel",
+      "value": 0.05,
+      "inventory": 50
+    },
+
+    "dime": {
+      "name": "dime",
+      "value": 0.1,
+      "inventory": 90
+    },
+
+    "quarter": {
+      "name": "quarter",
+      "value": 0.25,
+      "inventory": 100
+    }
+  }
+}
