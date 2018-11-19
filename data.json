@@ -1,7 +1,4 @@
 {
-
-
-
   "products": {
     "coke": {
       "name": "Coca-Cola",
@@ -33,29 +30,33 @@
     }
   },
 
-  "payment": {
-    "penny": {
+  "payment": [
+    {
       "name": "penny",
       "value": 0.01,
-      "inventory": 30
+      "inventory": 30,
+      "maxInventory": 100
     },
 
-    "nickel": {
+    {
       "name": "nickel",
       "value": 0.05,
-      "inventory": 50
+      "inventory": 50,
+      "maxInventory": 100
     },
 
-    "dime": {
+    {
       "name": "dime",
       "value": 0.1,
-      "inventory": 90
+      "inventory": 90,
+      "maxInventory": 100
     },
 
-    "quarter": {
+    {
       "name": "quarter",
       "value": 0.25,
-      "inventory": 100
+      "inventory": 100,
+      "maxInventory": 100
     }
-  }
+  ]
 }
