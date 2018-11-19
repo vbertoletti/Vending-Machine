@@ -15,6 +15,11 @@ The purpose of this project is to write functions that successfully pass all pur
 #### Author: 
 Vanessa Bertoletti.
 
+#### Usage: 
+1. Download this repo
+2. Run `npm install`
+3. Run `npm test`
+
 
 
 
